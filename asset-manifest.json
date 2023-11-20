@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/onlineShopReactjs/static/css/main.14cf4ef7.css",
-    "main.js": "/onlineShopReactjs/static/js/main.a1ddfdea.js",
-    "static/media/slider-image-2.jpg": "/onlineShopReactjs/static/media/slider-image-2.39e95c3d381377b36b13.jpg",
-    "static/media/slider-image-4.jpg": "/onlineShopReactjs/static/media/slider-image-4.71c332751e45bfdb7bce.jpg",
-    "static/media/slider-image-1.jpg": "/onlineShopReactjs/static/media/slider-image-1.b4c4048b55e2d732321c.jpg",
-    "static/media/slider-image-3.jpg": "/onlineShopReactjs/static/media/slider-image-3.ff32d3095870c740dd4b.jpg",
+    "main.css": "/onlineShopReactjs/static/css/main.119dca36.css",
+    "main.js": "/onlineShopReactjs/static/js/main.1a2836a8.js",
+    "static/media/slider-image-2.webp": "/onlineShopReactjs/static/media/slider-image-2.575df33ce4eea32a0010.webp",
+    "static/media/slider-image-4.webp": "/onlineShopReactjs/static/media/slider-image-4.cb008a18bc7e65af1c54.webp",
+    "static/media/slider-image-1.webp": "/onlineShopReactjs/static/media/slider-image-1.3557cec70e181bbb470b.webp",
+    "static/media/slider-image-3.webp": "/onlineShopReactjs/static/media/slider-image-3.e1e283899ed947bd5472.webp",
     "static/media/fa-solid-900.ttf": "/onlineShopReactjs/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
     "static/media/fa-brands-400.ttf": "/onlineShopReactjs/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
     "static/media/fa-solid-900.woff2": "/onlineShopReactjs/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
@@ -28,11 +28,11 @@
     "static/media/slick.ttf": "/onlineShopReactjs/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/onlineShopReactjs/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/onlineShopReactjs/index.html",
-    "main.14cf4ef7.css.map": "/onlineShopReactjs/static/css/main.14cf4ef7.css.map",
-    "main.a1ddfdea.js.map": "/onlineShopReactjs/static/js/main.a1ddfdea.js.map"
+    "main.119dca36.css.map": "/onlineShopReactjs/static/css/main.119dca36.css.map",
+    "main.1a2836a8.js.map": "/onlineShopReactjs/static/js/main.1a2836a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.14cf4ef7.css",
-    "static/js/main.a1ddfdea.js"
+    "static/css/main.119dca36.css",
+    "static/js/main.1a2836a8.js"
   ]
 }
