@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/onlineShopReactjs/static/css/main.563eab4f.css",
-    "main.js": "/onlineShopReactjs/static/js/main.6c396f0b.js",
+    "main.css": "/onlineShopReactjs/static/css/main.2f8c975d.css",
+    "main.js": "/onlineShopReactjs/static/js/main.ff9b8ab1.js",
+    "static/media/black-friday.jpg": "/onlineShopReactjs/static/media/black-friday.fa651bacd49d9f76520d.jpg",
+    "static/media/slider-image-2.jpg": "/onlineShopReactjs/static/media/slider-image-2.568211da0b6e633becec.jpg",
+    "static/media/slider-image-3.jpg": "/onlineShopReactjs/static/media/slider-image-3.51afd3f5413c0899829b.jpg",
     "static/media/fa-solid-900.ttf": "/onlineShopReactjs/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
-    "static/media/slider-image-2.webp": "/onlineShopReactjs/static/media/slider-image-2.4ec424eba20d8fd2dbac.webp",
     "static/media/fa-brands-400.ttf": "/onlineShopReactjs/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
-    "static/media/slider-image-1.webp": "/onlineShopReactjs/static/media/slider-image-1.5ff824cc6d809969ff07.webp",
-    "static/media/slider-image-3.webp": "/onlineShopReactjs/static/media/slider-image-3.2b89a8516427d5d95a15.webp",
     "static/media/fa-solid-900.woff2": "/onlineShopReactjs/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
     "static/media/fa-brands-400.woff2": "/onlineShopReactjs/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
     "static/media/Secure.svg": "/onlineShopReactjs/static/media/Secure.13c78eac6eeb4b46b761b710d329f2a8.svg",
@@ -27,11 +27,11 @@
     "static/media/slick.ttf": "/onlineShopReactjs/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/onlineShopReactjs/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/onlineShopReactjs/index.html",
-    "main.563eab4f.css.map": "/onlineShopReactjs/static/css/main.563eab4f.css.map",
-    "main.6c396f0b.js.map": "/onlineShopReactjs/static/js/main.6c396f0b.js.map"
+    "main.2f8c975d.css.map": "/onlineShopReactjs/static/css/main.2f8c975d.css.map",
+    "main.ff9b8ab1.js.map": "/onlineShopReactjs/static/js/main.ff9b8ab1.js.map"
   },
   "entrypoints": [
-    "static/css/main.563eab4f.css",
-    "static/js/main.6c396f0b.js"
+    "static/css/main.2f8c975d.css",
+    "static/js/main.ff9b8ab1.js"
   ]
 }
