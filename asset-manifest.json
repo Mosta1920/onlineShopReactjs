@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/onlineShopReactjs/static/css/main.8d71b4ad.css",
-    "main.js": "/onlineShopReactjs/static/js/main.b67f5f79.js",
+    "main.css": "/onlineShopReactjs/static/css/main.aa5e9ec4.css",
+    "main.js": "/onlineShopReactjs/static/js/main.92b0d4a7.js",
     "static/media/slider-image-2.webp": "/onlineShopReactjs/static/media/slider-image-2.575df33ce4eea32a0010.webp",
     "static/media/slider-image-4.webp": "/onlineShopReactjs/static/media/slider-image-4.cb008a18bc7e65af1c54.webp",
     "static/media/slider-image-1.webp": "/onlineShopReactjs/static/media/slider-image-1.3557cec70e181bbb470b.webp",
@@ -28,11 +28,11 @@
     "static/media/slick.ttf": "/onlineShopReactjs/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/onlineShopReactjs/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/onlineShopReactjs/index.html",
-    "main.8d71b4ad.css.map": "/onlineShopReactjs/static/css/main.8d71b4ad.css.map",
-    "main.b67f5f79.js.map": "/onlineShopReactjs/static/js/main.b67f5f79.js.map"
+    "main.aa5e9ec4.css.map": "/onlineShopReactjs/static/css/main.aa5e9ec4.css.map",
+    "main.92b0d4a7.js.map": "/onlineShopReactjs/static/js/main.92b0d4a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d71b4ad.css",
-    "static/js/main.b67f5f79.js"
+    "static/css/main.aa5e9ec4.css",
+    "static/js/main.92b0d4a7.js"
   ]
 }
