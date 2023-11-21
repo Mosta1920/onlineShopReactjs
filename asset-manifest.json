@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/onlineShopReactjs/static/css/main.15fdf842.css",
-    "main.js": "/onlineShopReactjs/static/js/main.2c160ef9.js",
+    "main.css": "/onlineShopReactjs/static/css/main.937cb69b.css",
+    "main.js": "/onlineShopReactjs/static/js/main.d64b86a5.js",
     "static/media/black-friday.jpg": "/onlineShopReactjs/static/media/black-friday.fa651bacd49d9f76520d.jpg",
     "static/media/slider-image-2.jpg": "/onlineShopReactjs/static/media/slider-image-2.568211da0b6e633becec.jpg",
     "static/media/slider-image-3.jpg": "/onlineShopReactjs/static/media/slider-image-3.51afd3f5413c0899829b.jpg",
@@ -27,11 +27,11 @@
     "static/media/slick.ttf": "/onlineShopReactjs/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/onlineShopReactjs/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/onlineShopReactjs/index.html",
-    "main.15fdf842.css.map": "/onlineShopReactjs/static/css/main.15fdf842.css.map",
-    "main.2c160ef9.js.map": "/onlineShopReactjs/static/js/main.2c160ef9.js.map"
+    "main.937cb69b.css.map": "/onlineShopReactjs/static/css/main.937cb69b.css.map",
+    "main.d64b86a5.js.map": "/onlineShopReactjs/static/js/main.d64b86a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.15fdf842.css",
-    "static/js/main.2c160ef9.js"
+    "static/css/main.937cb69b.css",
+    "static/js/main.d64b86a5.js"
   ]
 }
