@@ -1,0 +1,65 @@
+
+.profile {
+    background-color: var(--white);
+    flex-direction: column
+  }
+  
+  .profile a {
+    border: 1px solid var(--gray);
+    border-bottom: none;
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 10px 15px;
+    text-transform: uppercase
+  }
+  
+  .profile a:last-child {
+    border-bottom: 1px solid var(--gray)
+  }
+  
+  .profile a.active,
+  .profile a:hover {
+    background-color: var(--primary-dark);
+    border-color: var(--primary-dark);
+    color: var(--white)
+  }
+  
+  .profile a i.fa {
+    font-size: 14px;
+    text-align: center;
+    width: 25px
+  }
+  
+  @media only screen and (max-width:767px) {
+    #profileContent {
+      margin-top: 30px
+    }
+  }
+  
+  .profile-content {
+    padding: 30px
+  }
+  
+  @media only screen and (max-width:767px) {
+    .profile-content {
+      padding: 20px 15px
+    }
+  }
+  
+  .profile-content form {
+    margin-top: -20px
+  }
+  
+  
+  .profile-content .welcome a:hover,
+  .profile-content .welcome strong {
+    color: var(--primary-dark)
+  }
+  
+  .profile-content .welcome strong {
+    font-weight: 600
+  }
+  
+  
+  

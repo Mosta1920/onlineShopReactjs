@@ -1,0 +1,254 @@
+/******************** #Login ********************/
+
+.login-form {
+    background-color: var(--white);
+}
+
+.register-form {
+    background-color: var(--white);
+}
+
+
+.login {
+    padding-bottom: 100px;
+    padding-top: 50px
+}
+
+.login .form-input {
+    margin-top: 16px
+}
+
+.login .form-input .text {
+    color: var(--dark);
+    font-size: 16px;
+    line-height: 24px
+}
+
+.login .form-input .text a {
+    color: var(--primary)
+}
+
+.login .light-rounded-buttons {
+    margin-top: 20px
+}
+
+.login .form-input label {
+    color: var(--dark);
+    display: inline-block;
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 8px
+}
+
+.login .form-input .input-items {
+    position: relative
+}
+
+.login .form-input .input-items input,
+.login .form-input .input-items textarea {
+    border: 2px solid;
+    font-size: 16px;
+    height: 44px;
+    padding-left: 44px;
+    padding-right: 12px;
+    position: relative;
+    width: 100%;
+}
+
+.login .form-input .input-items textarea {
+    height: 130px;
+    padding-top: 8px;
+    resize: none
+}
+
+.login .form-input .input-items i {
+    font-size: 20px;
+    left: 13px;
+    position: absolute;
+    top: 11px;
+    z-index: 9
+}
+
+.login .form-input .input-items.default input,
+.login .form-input .input-items.default textarea {
+    border-color: var(--gray);
+    color: var(--dark)
+}
+
+.login .form-input .input-items.default input:focus,
+.login .form-input .input-items.default textarea:focus {
+    border-color: var(--gray)
+}
+
+.login .form-input .input-items.default input::-webkit-input-placeholder,
+.login .form-input .input-items.default textarea::-webkit-input-placeholder {
+    color: var(--dark);
+    opacity: 1
+}
+
+.login .form-input .input-items.default input::placeholder,
+.login .form-input .input-items.default textarea::placeholder {
+    color: var(--dark);
+    opacity: 1
+}
+
+.login .form-input .input-items.default i {
+    color: var(--dark)
+}
+
+.login .form-input .input-items.error input,
+.login .form-input .input-items.error textarea {
+    border-color: var(--error);
+    color: var(--error)
+}
+
+.login .form-input .input-items.error input::-webkit-input-placeholder,
+.login .form-input .input-items.error textarea::-webkit-input-placeholder {
+    color: var(--error);
+    opacity: 1
+}
+
+.login .form-input .input-items.error input::placeholder,
+.login .form-input .input-items.error textarea::placeholder {
+    color: var(--error);
+    opacity: 1
+}
+
+.login .form-input .input-items.error i {
+    color: var(--error)
+}
+
+.login .form-style-two .form-input .input-items input,
+.login .form-style-two .form-input .input-items textarea {
+    border-radius: 5px;
+    padding-left: 12px;
+    padding-right: 44px
+}
+
+.login .form-style-two .form-input .input-items i {
+    left: auto;
+    right: 13px
+}
+
+
+.login-content {
+    margin-top: 16px
+}
+
+.login-content .login-title {
+    color: var(--black);
+    font-size: 24px;
+    line-height: 30px
+}
+
+.login-content .text {
+    color: var(--dark);
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 8px
+}
+
+.login .primary-btn {
+    background: var(--primary);
+    color: var(--white)
+}
+
+.login .active.primary-btn,
+.login .primary-btn:focus,
+.login .primary-btn:hover {
+    background: var(--primary-dark);
+    color: var(--white)
+}
+
+.login .primary-btn-outline {
+    border-color: var(--primary);
+    color: var(--primary)
+}
+
+.login .active.primary-btn-outline,
+.login .primary-btn-outline:focus,
+.login .primary-btn-outline:hover {
+    background: var(--primary-dark);
+    color: var(--white)
+}
+
+
+
+
+
+
+
+.alert {
+    border-radius: 4px;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+    padding-left: 0;
+    position: relative
+  }
+  
+  .alert:before {
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 4px
+  }
+  
+  .alert .alert-icon {
+    padding: 32px
+  }
+  
+  .alert .alert-icon i,
+  .alert .alert-message h5 {
+    font-size: 20px;
+    font-weight: 700
+  }
+  
+  .alert .alert-message h5 {
+    margin-bottom: 8px
+  }
+  
+  .alert .alert-message p {
+    color: var(--black);
+    opacity: .88
+  }
+  
+  .alert.alert-error-light {
+    background: var(--error-light)
+  }
+  
+  .alert.alert-error-light:before {
+    background: var(--error)
+  }
+  
+  .alert.alert-error-light .alert-icon {
+    color: var(--error)
+  }
+  
+  .alert.alert-error {
+    background: var(--error)
+  }
+  
+  .alert.alert-error:before {
+    background: var(--error-dark)
+  }
+  
+  .alert.alert-error .alert-icon,
+  .alert.alert-error .alert-message h5,
+  .alert.alert-error .alert-message p {
+    color: var(--white)
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

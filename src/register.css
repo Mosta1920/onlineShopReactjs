@@ -1,0 +1,158 @@
+.register {
+  padding-bottom: 100px;
+  padding-top: 100px
+}
+
+.register .form-input {
+  margin-top: 16px
+}
+
+.register .form-input .text {
+  color: var(--dark);
+  font-size: 16px;
+  line-height: 24px
+}
+
+.register .form-input .text a {
+  color: var(--primary)
+}
+
+.register .signin-form {
+  background-color: var(--white);
+  border-radius: 8px;
+  padding: 40px
+}
+
+.register {
+  margin-top: 20px
+}
+
+.register .primary-btn,
+.register .primary-btn-outline {
+  width: 100%
+}
+
+.register .form-input label {
+  color: var(--dark);
+  display: inline-block;
+  font-size: 12px;
+  line-height: 18px;
+  margin-bottom: 8px
+}
+
+.register .form-input .input-items {
+  position: relative
+}
+
+.register .form-input .input-items input,
+.register .form-input .input-items textarea {
+  border: 2px solid;
+  font-size: 16px;
+  height: 44px;
+  padding-left: 44px;
+  padding-right: 12px;
+  position: relative;
+  width: 100%
+}
+
+.register .form-input .input-items textarea {
+  height: 130px;
+  padding-top: 8px;
+  resize: none
+}
+
+.register .form-input .input-items i {
+  font-size: 20px;
+  left: 13px;
+  position: absolute;
+  top: 11px;
+  z-index: 9
+}
+
+.register .form-input .input-items.default input,
+.register .form-input .input-items.default textarea {
+  border-color: var(--gray);
+  color: var(--dark)
+}
+
+.register .form-input .input-items.default input:focus,
+.register .form-input .input-items.default textarea:focus {
+  border-color: var(--gray)
+}
+
+.register .form-input .input-items.default input::-webkit-input-placeholder,
+.register .form-input .input-items.default textarea::-webkit-input-placeholder {
+  color: var(--dark);
+  opacity: .5
+}
+
+.register .form-input .input-items.default input::placeholder,
+.register .form-input .input-items.default textarea::placeholder {
+  color: var(--dark);
+  opacity: .5
+}
+
+.register .form-input .input-items.default i {
+  color: var(--dark)
+}
+
+.register .form-input .input-items.error input,
+.register .form-input .input-items.error textarea {
+  border-color: var(--error);
+  color: var(--error)
+}
+
+.register .form-input .input-items.error input::-webkit-input-placeholder,
+.register .form-input .input-items.error textarea::-webkit-input-placeholder {
+  color: var(--error);
+  font-weight: bolder;
+  opacity: 1
+}
+
+.register .form-input .input-items.error input::placeholder,
+.register .form-input .input-items.error textarea::placeholder {
+  color: var(--error);
+  font-weight: bolder;
+  opacity: 1
+}
+
+.register .form-input .input-items.error i {
+  color: var(--error)
+}
+
+.register .form-style-two .form-input .input-items input,
+.register .form-style-two .form-input .input-items textarea {
+  border-radius: 5px;
+  padding-left: 12px;
+  padding-right: 44px
+}
+
+.register .form-style-two .form-input .input-items i {
+  left: auto;
+  right: 13px
+}
+
+
+.register .primary-btn {
+  background: var(--primary);
+  color: var(--white)
+}
+
+.register .active.primary-btn,
+.register .primary-btn:focus,
+.register .primary-btn:hover {
+  background: var(--primary-dark);
+  color: var(--white)
+}
+
+.register .primary-btn-outline {
+  border-color: var(--primary);
+  color: var(--primary)
+}
+
+.register .active.primary-btn-outline,
+.register .primary-btn-outline:focus,
+.register .primary-btn-outline:hover {
+  background: var(--primary-dark);
+  color: var(--white)
+}

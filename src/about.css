@@ -1,0 +1,50 @@
+.text-about {
+  text-align: center;
+  margin-bottom: 25px;
+  margin-top: 25px;
+}
+
+.about-row-white {
+  background-color: var(--white);
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.about-row {
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.box-text {
+  padding: 30px;
+  position: relative;
+  text-align: center;
+}
+
+@media (max-width:576px) {
+
+  .text-about {
+    padding: 0px;
+  }
+
+  .about-row-white {
+    padding: 10px;
+  }
+
+  .about-row {
+    padding: 10px;
+  }
+
+  .box-text {
+    padding: 10px;
+  }
+}
+
+.box-img {
+  position: relative;
+  text-align: center;
+}

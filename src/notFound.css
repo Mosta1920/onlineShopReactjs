@@ -1,0 +1,106 @@
+.notFound-area {
+    background-color: var(--light)
+  }
+  
+  .notFound-content .primary-btn {
+    background: var(--primary)
+  }
+  
+  .notFound-content .active.primary-btn,
+  .notFound-content .primary-btn,
+  .notFound-content .primary-btn:focus,
+  .notFound-content .primary-btn:hover {
+    box-shadow: var(--shadow);
+    color: var(--white)
+  }
+  
+  .notFound-content .active.primary-btn,
+  .notFound-content .primary-btn:focus,
+  .notFound-content .primary-btn:hover {
+    background: var(--primary-dark)
+  }
+  
+  .notFound-content {
+    padding-bottom: 120px;
+    padding-top: 120px
+  }
+  
+  .notFound-content .notFound-404 {
+    color: var(--black);
+    font-size: 98px;
+    font-weight: 600;
+    line-height: 90px
+  }
+  
+  .notFound-content .sub-title {
+    color: var(--black);
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 16px
+  }
+  
+  .notFound-content .text {
+    color: var(--dark);
+    font-size: 16px;
+    line-height: 24px;
+    margin: 30px
+  }
+  
+  .notFound-content .text .notFound-contact {
+    color: var(--primary);
+    font-weight: 600
+  }
+  
+  .notFound-content .notFound-form {
+    margin: 40px auto 0;
+    max-width: 410px;
+    position: relative
+  }
+  
+  .notFound-content .notFound-form i {
+    color: var(--primary);
+    font-size: 24px;
+    left: 20px;
+    position: absolute;
+    top: 12px
+  }
+  
+  .notFound-content .notFound-form input {
+    border: 2px solid var(--gray);
+    border-radius: 50px;
+    color: var(--dark);
+    font-size: 16px;
+    font-weight: 600;
+    height: 46px;
+    padding-left: 60px;
+    padding-right: 30px;
+    width: 100%
+  }
+  
+  .notFound-content .notFound-form input:focus {
+    border-color: var(--primary)
+  }
+  
+  .notFound-content .notFound-btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-top: 5.5px;
+    margin-left: 4px;
+  
+  }
+  
+  @media (max-width:767px) {
+    .notFound-content .notFound-btn {
+      margin-top: 8px;
+      position: relative;
+      width: 100%
+    }
+  
+    .notFound-content .primary-btn {
+      width: 100%
+    }
+  }
+  
+  
+  

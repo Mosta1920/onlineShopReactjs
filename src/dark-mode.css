@@ -1,0 +1,15 @@
+:root:has(.dark-mode) {
+   --primary: #4fd515;
+  --primary-dark: #3bb208;
+  --primary-light: #e2f1ff;
+  --light: #4d4d4d;
+  --white: #3e3e3e;
+  --gray: #dedede;
+  --dark: #9a9a9a;
+  --black: #eeeeee;
+}
+
+:root:has(.dark-mode) body {
+  background-color: #2d2d2d;
+}
+
