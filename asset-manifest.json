@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/onlineShopReactjs/static/css/main.937cb69b.css",
-    "main.js": "/onlineShopReactjs/static/js/main.dedf4e5f.js",
+    "main.js": "/onlineShopReactjs/static/js/main.c4fdacf3.js",
     "static/media/black-friday.jpg": "/onlineShopReactjs/static/media/black-friday.fa651bacd49d9f76520d.jpg",
     "static/media/slider-image-2.jpg": "/onlineShopReactjs/static/media/slider-image-2.568211da0b6e633becec.jpg",
     "static/media/slider-image-3.jpg": "/onlineShopReactjs/static/media/slider-image-3.51afd3f5413c0899829b.jpg",
@@ -28,10 +28,10 @@
     "static/media/slick.woff": "/onlineShopReactjs/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/onlineShopReactjs/index.html",
     "main.937cb69b.css.map": "/onlineShopReactjs/static/css/main.937cb69b.css.map",
-    "main.dedf4e5f.js.map": "/onlineShopReactjs/static/js/main.dedf4e5f.js.map"
+    "main.c4fdacf3.js.map": "/onlineShopReactjs/static/js/main.c4fdacf3.js.map"
   },
   "entrypoints": [
     "static/css/main.937cb69b.css",
-    "static/js/main.dedf4e5f.js"
+    "static/js/main.c4fdacf3.js"
   ]
 }
