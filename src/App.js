@@ -35,7 +35,7 @@ import CartContextProvider from "./Context/CartContext";
 import WishListContextProvider from "./Context/WishContext";
 
 export default function App() {
-  let routers = createBrowserRouter([
+  let routers = createHashRouter([
     {
       path: "/",
       element: <Layout />,
